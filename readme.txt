@@ -32,10 +32,12 @@ Yandex.News Feed by Teplita - плагин для WordPress, позволяющ�
 
 == Changelog ==
 
+= 1.3 =
+* Fix: Inline styles appear in feed content
+
 = 1.2 =
 * Fix: Category field should contains only one category label
 * Fix: some shortcodes appeared incorrectly in the feed content
-* Fix: other minor fixes.
 
 = 1.1 =
 * Fix: some invalid characters appear in feed
