@@ -1,8 +1,8 @@
-=== Yandex.News Feed by Teplita ===
+=== Yandex.News Feed by Teplitsa ===
 Contributors: foralien, denis.cherniatev, ahaenor
 Tags: yandex,news,xml,rss,seo
 Requires at least: 3.8
-Tested up to: 3.9.1
+Tested up to: 4.0
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.txt
@@ -31,6 +31,8 @@ Yandex.News Feed by Teplita - плагин для WordPress, позволяющ�
 или скачать его в виде ZIP архива: https://github.com/Teplitsa/tst-yandex-feed/archive/master.zip
 
 == Changelog ==
+= 1.4 =
+* Fix: Incorrect formatting filtering applyed for the full feed content
 
 = 1.3 =
 * Fix: Inline styles appear in feed content
