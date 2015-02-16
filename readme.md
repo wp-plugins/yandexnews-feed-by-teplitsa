@@ -27,9 +27,11 @@ _For English description scroll down, please._
 Если у вас установлен GIT, то вы можете клонировать репозиторий: https://github.com/Teplitsa/tst-yandex-feed.git
 или скачать его в виде ZIP архива: https://github.com/Teplitsa/tst-yandex-feed/archive/master.zip
 
-После установки настройки плагина доступны через меню _Настройки -> Яндекс.Новости_.
+После установки настройки плагина доступны через меню _Настройки -> Яндекс.Новости_. Пример страницы настроек
+![](http://itv.te-st.ru/wp-content/uploads/screen-2.png)
 
-Трансляция (фид) доступна для просмотра по ссылке _domain.ru/yandex/news/_.
+Трансляция (фид) доступна для просмотра по ссылке _domain.ru/yandex/news/_. Пример выдачи
+![](http://itv.te-st.ru/wp-content/uploads/screen-1.png)
 
 Плагин имеет минимум необходимых настроек. Подробнее о его использовании можно узнать на сайте разработчиков:
 * [руководство](http://te-st.ru/2014/12/02/wordpress-and-yandex-news/) по использованию плагина;
@@ -46,6 +48,7 @@ _For English description scroll down, please._
 
 Если у вас есть вопросы по работе плагина, то обратитесь за поддержкой с помощью GitHub.
 
+Если вам нужна помощь волонтеров в установке и настройке - создайте задачу на https://itv.te-st.ru
 
 ##In English##
 
@@ -93,3 +96,5 @@ We will be very grateful for your help us to make the plugin better. You can do 
 * Translate the plugin or optimize it for your country.
 
 If you have questions about the plugin, then ask for support through GitHub.
+
+
